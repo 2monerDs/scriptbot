@@ -1,2 +1,0 @@
-# scriptbot
-desenvolvendo um botzin
